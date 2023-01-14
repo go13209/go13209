@@ -1,12 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a7eeff&height=200&section=header&text=Rilee%20Kim&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=egg&color=0:708090,100:000000&height=200&section=header&text=Rilee%20Kim&fontSize=80&fontColor=F8F8FF&animation=blink)
 
 <center>
 
 ⭐ KDT 풀스택 개발자 2기 과정 수강중  
-⭐ 언제나 배우고 학습하는 개발자 되기  
-⭐ 저녁이 있는 여유롭고 행복한 삶 살기
+⭐ 스스로 익히고 배우는 개발자  
 
 <br/>
 
@@ -32,6 +31,6 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rilee-0320&theme=react&show_icons=true)](https://github.com/Rilee-0320)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rilee-0320&show_icons=true&theme=ocean_dark)
 
 </div>
