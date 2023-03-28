@@ -1,5 +1,6 @@
-<center>
-
+<div align=center>
+<br>
+  
 ⭐ KDT 풀스택 개발자 2기 과정 수강중  
 ⭐ 스스로 익히고 배우는 개발자  
 
