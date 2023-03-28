@@ -1,7 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=egg&color=0:708090,100:000000&height=200&section=header&text=Rilee%20Kim&fontSize=80&fontColor=F8F8FF&animation=blink)
-
 <center>
 
 ⭐ KDT 풀스택 개발자 2기 과정 수강중  
